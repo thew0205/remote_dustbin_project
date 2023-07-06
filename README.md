@@ -14,8 +14,8 @@ The Flutter app is designed to provide a user-friendly interface for remotely co
 
 To run the Flutter app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/thew0205/embedded-dustbin.git`
-2. Navigate to the `app` directory: `cd embedded-dustbin/app`
+1. Clone the repository: `git clone https://github.com/thew0205/remote_dustbin_project.git`
+2. Navigate to the `app` directory: `cd dustbin_app_flutter`
 3. Install the dependencies: `flutter pub get`
 4. Connect your device or start an emulator.
 5. Launch the app: `flutter run`
@@ -28,8 +28,8 @@ The ESP32 firmware is responsible for controlling the servo motor and establishi
 
 To flash the ESP32 firmware, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/embedded-dustbin.git`
-2. Open the `esp32` directory in the Arduino IDE or your preferred ESP32 development environment.
+1. Clone the repository: `git clone https://github.com/thew0205/remote_dustbin_project.git`
+2. Open the `dustbin_esp32_firmware` directory in the Arduino IDE or your preferred ESP32 development environment.
 3. Connect your ESP32 board to your computer via USB.
 4. Select the appropriate board and port in the Arduino IDE.
 5. Compile and upload the sketch to the ESP32 board.
@@ -46,10 +46,6 @@ Ensure that the dustbin modification is done carefully and securely to ensure pr
 
 Contributions to this project are welcome. If you find any issues or have improvements to suggest, please feel free to open an issue or submit a pull request. Be sure to follow the existing code style and conventions when contributing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code in accordance with the terms of the license. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
-We would like to thank the open-source community for their contributions and support in building this project. Special thanks to the creators and maintainers of the Flutter framework, ESP32 Arduino library, and
+Special thanks to the creators and maintainers of the Flutter framework, ESP32 Arduino library, and Arduino Community.
