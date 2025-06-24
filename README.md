@@ -6,7 +6,7 @@ Remotely open and close a dustbin lid using a **Flutter mobile app** and an **ES
 
 ## 🎥 Project Demo
 
-https://github.com/thew0205/remote_dustbin_project/assets/your_github_id/1688755511331.mp4
+https://github.com/thew0205/remote_dustbin_project/1688755511331.mp4
 
 <details>
 <summary>Can't view the embedded video? Download it <a href="./1688755511331.mp4">here</a>.</summary>
